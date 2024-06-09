@@ -1,0 +1,18 @@
+
+  table,td,th{
+    border: 1px solid red;
+    padding-bottom: 12px;
+  }
+  th{    font-size: 25px;
+  }
+
+
+  .ra{
+    font-size: 25px;
+    color: rgb(255, 0, 179);
+  }
+
+  .aa{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
